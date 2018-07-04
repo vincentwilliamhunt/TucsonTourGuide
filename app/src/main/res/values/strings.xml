@@ -1,0 +1,31 @@
+<resources>
+    <string name="category_day">Day</string>
+    <string name="category_night">Night</string>
+    <string name="category_wildlife">Wild Life</string>
+    <string name="category_dine">Dine</string>
+    <string name="app_name">Tucson</string>
+    <string name="day_desert_museum">Desert Museum</string>
+    <string name="day_mt_lemmon">Mt Lemmon</string>
+    <string name="day_sabino_canyon">Sabino Canyon</string>
+    <string name="night_the_loft">The Loft</string>
+    <string name="night_downtown">Downtown</string>
+    <string name="night_la_cocina">La Cocina</string>
+    <string name="wildlife_saguaro">Saguaro</string>
+    <string name="wildlife_mt_lion">Mt Lion</string>
+    <string name="wildlife_rattle_snake">Rattle Snake</string>
+    <string name="dine_cafe_poca_cosa">Cafe Poca Cosa</string>
+    <string name="dine_barrio_brewery">Barrio Brewery</string>
+    <string name="dine_el_charro">El Charro</string>
+    <string name="day_desert_museum_desc">The Arizona-Sonora Desert Museum is a 98 acre zoo, aquarium, botanical garden, natural history museum, publisher, and art gallery founded in 1952. Located just west of Tucson, Arizona, it features two miles (3.2 km) of walking paths traversing 21 acres of desert landscape.</string>
+    <string name="day_mt_lemmon_desc">Mount Lemmon, with a summit elevation of 9,159 feet (2,792 m), is the highest point in the Santa Catalina Mountains and is known as a sky island.</string>
+    <string name="day_sabino_canyon_desc">Sabino Canyon is a popular recreation area for residents and visitors of Southern Arizona, providing a place to walk, hike or ride. There are plenty of trails and waterfalls here!</string>
+    <string name="night_the_loft_desc">The Loft Cinema screens first run independent American and foreign films and documentaries, as well as classic art films and special events.</string>
+    <string name="night_downtown_desc">Downtown Tucson is a Downtown for everyone, an eclectic, beautiful, fun, accessible, pedestrian and bike friendly district that embraces diversity. It is the Southwests premier urban hub for living, dining, retail, business, art, entertainment, and both historic and contemporary architecture.</string>
+    <string name="night_la_cocina_desc">Located in the heart of the historic Presidio district of downtown Tucson and tucked inside the walls of Old Town Artisans you will find the beautiful courtyard restaurant that is La Cocina. Boasting al fresco dining, a rustic Cantina, and live music under the stars this gem certainly offers something for everyone.</string>
+    <string name="wildlife_saguaro_desc">The saguaro is a (tree like) cactus species, which can grow to be over 40 feet (12 m) tall.</string>
+    <string name="wildlife_mt_lion_desc">The cougar, also commonly known as the mountain lion, is a large cat native to Tucson</string>
+    <string name="wildlife_rattle_snake_desc">Yup, we got em. Not only that, we have at least 5 different kinds. Western Diamondback; Mohave; Tiger; Blacktail; and Sidewinder.</string>
+    <string name="dine_cafe_poca_cosa_desc">The menu changes twice daily, is printed in Spanish on a portable chalkboard, which servers take from table to table. This fun, spontaneous approach to dining encourages guests to sample old favorites, and to discover new ones.</string>
+    <string name="dine_barrio_brewery_desc">Tucson\'s own brewery with some of the locals favorite beers</string>
+    <string name="dine_el_charro_desc">Established in 1922 by Monica Flin, El Charro Cafe of Tucson, Arizona is The Nation\'s Oldest Mexican Restaurant in continuous operation by the same family.</string>
+</resources>
